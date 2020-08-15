@@ -1,5 +1,5 @@
 # **MAVEN**
-> ## Conociendo Maven 
+## Conociendo Maven 
 ### Su mayor utilidad
 > Permite gestionar y crear un proyecto software completo. 
 ### Fases de maven
@@ -26,6 +26,10 @@ Es un fragmento de codigo que sirve para ampliar las funciones de un programa.
 
 
 ### ¿Para que sirve el repositorio central de maven?
+
+## Creando un proyecto con Maven
+## Ajustando algunas configuraciones en el proyecto
+## Compilando y ejecutando
 
 
 
