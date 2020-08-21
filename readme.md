@@ -45,9 +45,21 @@ Este fue el conjunto de archivos y directorios creados por el comando mvn:
 <img width="347" alt="directorios" src="https://user-images.githubusercontent.com/59893804/90928232-1a21c900-e3bc-11ea-9da7-4a08d27ec581.png">
 
 
-## Ajustando algunas configuraciones en el proyecto
 ## Compilando y ejecutando
+Compilamos el archivo ejecutando el comando
+```
+$ mvn package
+```
+<img width="598" alt="compilando" src="https://user-images.githubusercontent.com/59893804/90928774-1d698480-e3bd-11ea-8832-4af1f77b01d6.png">
+El obejtivo del parametro package es ...
 
+Para ejecutar desde línea de comandos un proyecto maven ejecutamos el comando: 
+```
+$ mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"
+```
+Obtenemos la siguiente salida :
+
+<img width="691" alt="salida" src="https://user-images.githubusercontent.com/59893804/90929228-f3649200-e3bd-11ea-8a61-dca852d90343.png">
 
 
 
