@@ -91,13 +91,15 @@ Esta ejecución no funciona correctamente porque "qwerty" no es una entrada vali
 Esta ejecución no funciona correctamente porque aunque "pentagon" es una clase establecida , la sintaxis es incorrecta.
 <img width="675" alt="pentagon" src="https://user-images.githubusercontent.com/59893804/90933654-894feb00-e3c5-11ea-917a-a49f59f05d62.png">
 
-La clase correcta es "Pentagon"
+La clase correcta es "Pentagon".
+
 <img width="658" alt="pentagonok" src="https://user-images.githubusercontent.com/59893804/90933656-89e88180-e3c5-11ea-9f8a-64430a22728e.png">
 
 
 
 
 * _**Parámetro Hexagon**_
+
 Esta ejecución es correcta ya que muestra el numero de lados correctos de la figura
 <img width="648" alt="ultimo" src="https://user-images.githubusercontent.com/59893804/90933748-b8fef300-e3c5-11ea-9576-9f096cdf75b9.png">
 
