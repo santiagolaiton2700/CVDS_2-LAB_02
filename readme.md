@@ -74,11 +74,20 @@ Creamos y organizamos el paquete "shapes" con todos sus subdirectorios y clases:
 
 Despues de hacer todos los cambios ejecutamos mutliples veces la clase ShapeMain usando el plugin exec de maven con los siguientes parámetros:
 * _**Sin parámetros**_
+
 <img width="718" alt="sin parametro" src="https://user-images.githubusercontent.com/59893804/90932340-109c5f00-e3c4-11ea-87d2-8d36d5cc55ec.png">
 Esta ejecución no funciona correctamente porque la clase ShapeMain requiere un parametro para ser ejecutada correctamente 
-* _**Parámetro: qwerty**
-<img width="640" alt="qwerty" src="https://user-images.githubusercontent.com/59893804/90932591-a637ee80-e3c4-11ea-8f30-0ca2b516447a.png">_
-Esta ejecución no funciona correctamente porque "qwerty" no es una entrada valida,la clase ShapeMain requiere un parametro de una figura establecida en la clase
-* _**Parámetro: pentagon**_
-* _**Parámetro Hexagon**_
 
+* _**Parámetro: qwerty**_
+
+<img width="640" alt="qwerty" src="https://user-images.githubusercontent.com/59893804/90932591-a637ee80-e3c4-11ea-8f30-0ca2b516447a.png">
+Esta ejecución no funciona correctamente porque "qwerty" no es una entrada valida,la clase ShapeMain requiere un parametro de una figura establecida en la clase
+
+* _**Parámetro: pentagon**_
+<img width="675" alt="pentagon" src="https://user-images.githubusercontent.com/59893804/90933654-894feb00-e3c5-11ea-917a-a49f59f05d62.png">
+Esta ejecución no funciona correctamente porque aunque "pentagon" es una clase establecida , la sintaxis es incorrecta.
+<img width="658" alt="pentagonok" src="https://user-images.githubusercontent.com/59893804/90933656-89e88180-e3c5-11ea-9f8a-64430a22728e.png">
+La clase correcta es "Pentagon"
+* _**Parámetro Hexagon**_
+<img width="648" alt="ultimo" src="https://user-images.githubusercontent.com/59893804/90933748-b8fef300-e3c5-11ea-9576-9f096cdf75b9.png">
+Esta ejecución es correcta ya que muestra el numero de lados correctos de la figura
