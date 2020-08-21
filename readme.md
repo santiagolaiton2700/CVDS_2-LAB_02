@@ -109,4 +109,5 @@ Esta ejecución es correcta ya que muestra el numero de lados correctos de la fi
 
 
 ## ¿Para que sirve GITIGNORE?
-> GITIGNORE es un archivo que se comunica con el git y le indica que archivos no son necesarios y se pueden ignorar.
+> GITIGNORE es un archivo que se comunica con el git y le indica que archivos o directorios completos debe ignorar y no subir al repositorio de código.
+
