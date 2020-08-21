@@ -69,11 +69,12 @@ Realizamos un cambio en la clase App.java donde enviamos como parametro nuestros
 
 ## Haciendo un esqueleto de la aplicación 
 Creamos y organizamos el paquete "shapes" con todos sus subdirectorios y clases:
+
 <img width="400" alt="concrete" src="https://user-images.githubusercontent.com/59893804/90931809-04fc6880-e3c3-11ea-9f5c-bea5137086e6.png">
 
 Despues de hacer todos los cambios ejecutamos mutliples veces la clase ShapeMain usando el plugin exec de maven con los siguientes parámetros:
-* Sin parámetros
-* Parámetro: qwerty
-* Parámetro: pentagon
-* Parámetro Hexagon
+* *_Sin parámetros_*
+* *_Parámetro: qwerty_*
+* *_Parámetro: pentagon_*
+* *_Parámetro Hexagon_*
 
