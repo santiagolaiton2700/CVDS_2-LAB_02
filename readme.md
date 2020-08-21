@@ -27,52 +27,52 @@ Es un repositorio remoto donde se encuentra la mayoría de librerías que se uti
 
 
 ## Creando un proyecto con Maven
-Para crear un proyecto maven con ayuda de arquetipos se usa el fragmento:
+> ### Para crear un proyecto maven con ayuda de arquetipos se usa el fragmento:
 ```
 mvn archetype:generate -Dfilter=maven-archetype-quickstart 
 
 ```
-Se crea un proyecto interactivo "Patterns"
+> ### Se crea un proyecto interactivo "Patterns"
 
 <img width="197" alt="Patterns" src="https://user-images.githubusercontent.com/59893804/90927334-86033200-e3ba-11ea-8afe-2aa33f92a365.png">
 
-Con los siguientes parametros: 
+> ### Con los siguientes parametros: 
 
 <img width="450" alt="Parametros" src="https://user-images.githubusercontent.com/59893804/90927956-9d8eea80-e3bb-11ea-981d-01c539eca8c2.png">
 
-Este fue el conjunto de archivos y directorios creados por el comando mvn:
+> ### Este fue el conjunto de archivos y directorios creados por el comando mvn:
 
 <img width="347" alt="directorios" src="https://user-images.githubusercontent.com/59893804/90928232-1a21c900-e3bc-11ea-9da7-4a08d27ec581.png">
 
 
 ## Compilando y ejecutando
-Compilamos el archivo ejecutando el comando
+> ### Compilamos el archivo ejecutando el comando
 ```
 $ mvn package
 ```
 <img width="598" alt="compilando" src="https://user-images.githubusercontent.com/59893804/90928774-1d698480-e3bd-11ea-8832-4af1f77b01d6.png">
 
-Para ejecutar desde línea de comandos un proyecto maven ejecutamos el comando: 
+> ### Para ejecutar desde línea de comandos un proyecto maven ejecutamos el comando: 
 ```
 $ mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"
 ```
-Obtenemos la siguiente salida :
+> ### Obtenemos la siguiente salida :
 
 <img width="691" alt="salida" src="https://user-images.githubusercontent.com/59893804/90929228-f3649200-e3bd-11ea-8a61-dca852d90343.png">
 
 
-Realizamos un cambio en la clase App.java donde enviamos como parametro nuestros nombres y apellidos y obtenemos las salidas: 
+> ### Realizamos un cambio en la clase App.java donde enviamos como parametro nuestros nombres y apellidos y obtenemos las salidas: 
 <img width="667" alt="salida1" src="https://user-images.githubusercontent.com/59893804/90931401-3a548680-e3c2-11ea-91e3-bbea8bc61eff.png">
 <img width="691" alt="salida2" src="https://user-images.githubusercontent.com/59893804/90931404-3aed1d00-e3c2-11ea-9ce9-d5216a560fcd.png">
 
 
 
 ## Haciendo un esqueleto de la aplicación 
-Creamos y organizamos el paquete "shapes" con todos sus subdirectorios y clases:
+> ### Creamos y organizamos el paquete "shapes" con todos sus subdirectorios y clases:
 
 <img width="400" alt="concrete" src="https://user-images.githubusercontent.com/59893804/90931809-04fc6880-e3c3-11ea-9f5c-bea5137086e6.png">
 
-Despues de hacer todos los cambios ejecutamos mutliples veces la clase ShapeMain usando el plugin exec de maven con los siguientes parámetros:
+> ### Despues de hacer todos los cambios ejecutamos mutliples veces la clase ShapeMain usando el plugin exec de maven con los siguientes parámetros:
 * ###  _**Sin parámetros**_
 Esta ejecución no funciona correctamente porque la clase ShapeMain requiere un parametro para ser ejecutada correctamente 
 
@@ -106,4 +106,7 @@ La clase correcta es Pentagon
 
 Esta ejecución es correcta ya que muestra el numero de lados correctos de la figura
 <img width="648" alt="ultimo" src="https://user-images.githubusercontent.com/59893804/90933748-b8fef300-e3c5-11ea-9576-9f096cdf75b9.png">
+
+
+## ¿Para que sirve GITIGNORE?
 
