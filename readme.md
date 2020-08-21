@@ -32,6 +32,15 @@ Para crear un proyecto maven con ayuda de arquetipos se usa el fragmento:
 mvn archetype:generate -Dfilter=maven-archetype-quickstart 
 
 ```
+Se crea un proyecto interactivo "Patterns"
+
+<img width="197" alt="Patterns" src="https://user-images.githubusercontent.com/59893804/90927334-86033200-e3ba-11ea-8afe-2aa33f92a365.png">
+
+Con los siguientes parametros: 
+
+<img width="322" alt="Parametros" src="https://user-images.githubusercontent.com/59893804/90927649-15a8e080-e3bb-11ea-9c43-2f99f8b5d9db.png">
+
+
 
 ## Ajustando algunas configuraciones en el proyecto
 ## Compilando y ejecutando
