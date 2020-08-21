@@ -21,10 +21,10 @@ Permite gestionar y crear un proyecto software completo.
 Es un fragmento de codigo que sirve para ampliar las funciones de un programa.
 
 
-> ### ¿Qué es el repositorio central de maven?
+> ### ¿Qué es el repositorio central de maven? y ¿Para que sirve?
+Es un repositorio remoto donde se encuentra la mayoría de librerías que se utilizan en los desarrollos de software, la misma herramienta las gestiona cuando sea necesario.   
 
 
-> ### ¿Para que sirve el repositorio central de maven?
 
 ## Creando un proyecto con Maven
 ## Ajustando algunas configuraciones en el proyecto
