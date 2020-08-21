@@ -95,7 +95,8 @@ Esta ejecución no funciona correctamente porque aunque "pentagon" es una clase 
 
 <img width="675" alt="pentagon" src="https://user-images.githubusercontent.com/59893804/90933654-894feb00-e3c5-11ea-917a-a49f59f05d62.png">
 
-La clase correcta es "Pentagon"
+La clase correcta es Pentagon
+
 <img width="658" alt="pentagonok" src="https://user-images.githubusercontent.com/59893804/90933656-89e88180-e3c5-11ea-9f8a-64430a22728e.png">
 
 
