@@ -81,25 +81,25 @@ Esta ejecución no funciona correctamente porque la clase ShapeMain requiere un 
 
 
 * _**Parámetro: qwerty**_
-Esta ejecución no funciona correctamente porque "qwerty" no es una entrada valida,la clase ShapeMain requiere un parametro de una figura establecida en la clase
-<img width="640" alt="qwerty" src="https://user-images.githubusercontent.com/59893804/90932591-a637ee80-e3c4-11ea-8f30-0ca2b516447a.png">
+* Esta ejecución no funciona correctamente porque "qwerty" no es una entrada valida,la clase ShapeMain requiere un parametro de una figura establecida en la clase
+* <img width="640" alt="qwerty" src="https://user-images.githubusercontent.com/59893804/90932591-a637ee80-e3c4-11ea-8f30-0ca2b516447a.png">
 
 
 
 
 * _**Parámetro: pentagon**_
-Esta ejecución no funciona correctamente porque aunque "pentagon" es una clase establecida , la sintaxis es incorrecta.
-<img width="675" alt="pentagon" src="https://user-images.githubusercontent.com/59893804/90933654-894feb00-e3c5-11ea-917a-a49f59f05d62.png">
+* Esta ejecución no funciona correctamente porque aunque "pentagon" es una clase establecida , la sintaxis es incorrecta.
+* <img width="675" alt="pentagon" src="https://user-images.githubusercontent.com/59893804/90933654-894feb00-e3c5-11ea-917a-a49f59f05d62.png">
 
-La clase correcta es "Pentagon".
+* La clase correcta es "Pentagon".
 
-<img width="658" alt="pentagonok" src="https://user-images.githubusercontent.com/59893804/90933656-89e88180-e3c5-11ea-9f8a-64430a22728e.png">
+* <img width="658" alt="pentagonok" src="https://user-images.githubusercontent.com/59893804/90933656-89e88180-e3c5-11ea-9f8a-64430a22728e.png">
 
 
 
 
 * _**Parámetro Hexagon**_
 
-Esta ejecución es correcta ya que muestra el numero de lados correctos de la figura
-<img width="648" alt="ultimo" src="https://user-images.githubusercontent.com/59893804/90933748-b8fef300-e3c5-11ea-9576-9f096cdf75b9.png">
+* Esta ejecución es correcta ya que muestra el numero de lados correctos de la figura
+** <img width="648" alt="ultimo" src="https://user-images.githubusercontent.com/59893804/90933748-b8fef300-e3c5-11ea-9576-9f096cdf75b9.png">
 
