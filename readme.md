@@ -40,6 +40,8 @@ Con los siguientes parametros:
 
 <img width="450" alt="Parametros" src="https://user-images.githubusercontent.com/59893804/90927956-9d8eea80-e3bb-11ea-981d-01c539eca8c2.png">
 
+Este fue el conjunto de archivos y directorios creados por el comando mvn 
+<img width="347" alt="directorios" src="https://user-images.githubusercontent.com/59893804/90928232-1a21c900-e3bc-11ea-9da7-4a08d27ec581.png">
 
 
 ## Ajustando algunas configuraciones en el proyecto
