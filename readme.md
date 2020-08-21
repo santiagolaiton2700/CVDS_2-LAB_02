@@ -51,7 +51,6 @@ Compilamos el archivo ejecutando el comando
 $ mvn package
 ```
 <img width="598" alt="compilando" src="https://user-images.githubusercontent.com/59893804/90928774-1d698480-e3bd-11ea-8832-4af1f77b01d6.png">
-El obejtivo del parametro package es ...
 
 Para ejecutar desde línea de comandos un proyecto maven ejecutamos el comando: 
 ```
@@ -62,6 +61,9 @@ Obtenemos la siguiente salida :
 <img width="691" alt="salida" src="https://user-images.githubusercontent.com/59893804/90929228-f3649200-e3bd-11ea-8a61-dca852d90343.png">
 
 
+Realizamos un cambio en la clase App.java donde enviamos como parametro nuestros nombres y apellidos y obtenemos las salidas: 
+<img width="667" alt="salida1" src="https://user-images.githubusercontent.com/59893804/90931401-3a548680-e3c2-11ea-91e3-bbea8bc61eff.png">
+<img width="691" alt="salida2" src="https://user-images.githubusercontent.com/59893804/90931404-3aed1d00-e3c2-11ea-9ce9-d5216a560fcd.png">
 
 
 
