@@ -73,8 +73,12 @@ Creamos y organizamos el paquete "shapes" con todos sus subdirectorios y clases:
 <img width="400" alt="concrete" src="https://user-images.githubusercontent.com/59893804/90931809-04fc6880-e3c3-11ea-9f5c-bea5137086e6.png">
 
 Despues de hacer todos los cambios ejecutamos mutliples veces la clase ShapeMain usando el plugin exec de maven con los siguientes parámetros:
-* *_Sin parámetros_*
-* *_Parámetro: qwerty_*
-* *_Parámetro: pentagon_*
-* *_Parámetro Hexagon_*
+* _**Sin parámetros**_
+<img width="718" alt="sin parametro" src="https://user-images.githubusercontent.com/59893804/90932340-109c5f00-e3c4-11ea-87d2-8d36d5cc55ec.png">
+Esta ejecución no funciona correctamente porque la clase ShapeMain requiere un parametro para ser ejecutada correctamente 
+* _**Parámetro: qwerty**
+<img width="640" alt="qwerty" src="https://user-images.githubusercontent.com/59893804/90932591-a637ee80-e3c4-11ea-8f30-0ca2b516447a.png">_
+Esta ejecución no funciona correctamente porque "qwerty" no es una entrada valida,la clase ShapeMain requiere un parametro de una figura establecida en la clase
+* _**Parámetro: pentagon**_
+* _**Parámetro Hexagon**_
 
