@@ -28,10 +28,10 @@ Es un repositorio remoto donde se encuentra la mayoría de librerías que se uti
 
 ## Creando un proyecto con Maven
 Para crear un proyecto maven con ayuda de arquetipos se usa el fragmento:
-´´´
+```
 mvn archetype:generate -Dfilter=maven-archetype-quickstart 
 
-´´´
+```
 
 ## Ajustando algunas configuraciones en el proyecto
 ## Compilando y ejecutando
