@@ -38,7 +38,7 @@ Se crea un proyecto interactivo "Patterns"
 
 Con los siguientes parametros: 
 
-<img width="322" alt="Parametros" src="https://user-images.githubusercontent.com/59893804/90927649-15a8e080-e3bb-11ea-9c43-2f99f8b5d9db.png">
+<img width="450" alt="Parametros" src="https://user-images.githubusercontent.com/59893804/90927956-9d8eea80-e3bb-11ea-981d-01c539eca8c2.png">
 
 
 
